@@ -6,7 +6,7 @@ Ceci est un prototype de calcule de moyenne en python et je verifie ensuite si c
 
 #### lancez les commandes : 
 ```
-sudo apt update && sudo apt install python
+sudo apt update && sudo apt install python && sudo apt install git
 cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
@@ -14,7 +14,7 @@ cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 
 #### lancez les commandes :
 ```
-apk update && apk add python
+apk update && apk add python && apk add git
 cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
@@ -22,7 +22,7 @@ cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 
 #### lancez les commandes : 
 ```
-apt update && apt install python
+apt update && apt install python && apt install git
 cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 

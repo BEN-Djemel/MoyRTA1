@@ -6,24 +6,27 @@ Ceci est un prototype de calcule de moyenne en python et je verifie ensuite si c
 
 #### lancez les commandes : 
 ```
-sudo apt update && sudo apt install python && sudo apt install git
-cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+1. sudo apt update && sudo apt install python && sudo apt install git
+2. git clone
+3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
 ## Installation sur ish shell (ios)
 
 #### lancez les commandes :
 ```
-apk update && apk add python && apk add git
-cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+1. apk update && apk add python && apk add git
+2. git clone
+3.cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
 ## Installation sur termux (android)
 
 #### lancez les commandes : 
 ```
-apt update && apt install python && apt install git
-cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+1. apt update && apt install python && apt install git
+2. 
+3.cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
 ## Enfin, pour lancer le script il faut faire : 

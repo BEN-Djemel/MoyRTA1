@@ -1,10 +1,8 @@
 
-    """
-Calcule des moyennes de chaque unitée d'enseignement de chaque semestre en première année de
-    bachelor universitaire technologique en réseau et télécommunication
+#Calcule des moyennes de chaque unitée d'enseignement de chaque semestre en première année de bachelor universitaire technologique en réseau et télécommunication
 
-Copyright: bcbdjemel@gmail.com
-    """
+#Copyright: bcbdjemel@gmail.com
+
 import statistics
 import math
 

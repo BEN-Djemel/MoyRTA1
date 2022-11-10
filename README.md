@@ -26,4 +26,4 @@ apt update && apt install python
 cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
 ```
 
-Enfin, pour lancer le script il faut faire : `python NotesRTAnnee1.py`
+# Enfin, pour lancer le script il faut faire : `python NotesRTAnnee1.py`

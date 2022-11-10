@@ -10,6 +10,8 @@ print('-------------------------------------------------------------------------
 print('Bienvenue sur ce programme de calcule de moyenne de chaque UE de chaque semestre en RT1')
 print(' ')
 print('Entrez vos notes dans l\'ordre indiqué :')
+print(' ')
+print('POUR LES NOMBRES DECIMALES, METTEZ UN POINT (.)')
 print('-----------------------------------------------------------------------------------------------------')
 print('Made by Djemel in 2022')
 print('Contact me on bcbdjemel@gmail.com')

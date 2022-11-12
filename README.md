@@ -7,8 +7,8 @@ Ceci est un prototype de calcule de moyenne en python. Je verifie si cela respec
 #### lancez les commandes : 
 ```
 1. sudo apt update && sudo apt install python && sudo apt install git
-2. git clone https://github.com/BEN-Djemel/MoyRTA1.git
-3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+2. git clone https://github.com/BEN-Djemel/RT1moy.git
+3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py && python NotesRTAnnee1.py
 ```
 
 ## Installation sur ish shell (ios)
@@ -16,8 +16,8 @@ Ceci est un prototype de calcule de moyenne en python. Je verifie si cela respec
 #### lancez les commandes :
 ```
 1. apk update && apk add python && apk add git
-2. git clone https://github.com/BEN-Djemel/MoyRTA1.git
-3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+2. git clone https://github.com/BEN-Djemel/RT1moy.git
+3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py && python NotesRTAnnee1.py
 ```
 
 ## Installation sur termux (android)
@@ -25,9 +25,6 @@ Ceci est un prototype de calcule de moyenne en python. Je verifie si cela respec
 #### lancez les commandes : 
 ```
 1. apt update && apt install python && apt install git
-2. git clone https://github.com/BEN-Djemel/MoyRTA1.git
-3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py
+2. git clone https://github.com/BEN-Djemel/RT1moy.git
+3. cd MoyRTA1 && chmod u+x NotesRTAnnee1.py && python NotesRTAnnee1.py
 ```
-
-## Enfin, pour lancer le script il faut faire : 
-`python NotesRTAnnee1.py`
